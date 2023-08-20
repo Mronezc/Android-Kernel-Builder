@@ -5,9 +5,9 @@
       "repo": "https://github.com/HELLBOY017/kernel_oneplus_sm8250",
       "branch": "13.1",
       "device": "9r",
-      "defconfig": "chopin_user_defconfig"
+      "defconfig": "vendor/kona-perf_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
